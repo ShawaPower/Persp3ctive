@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+  font-family: Arial;
+  background-image: url("../images/web1.jpg");
+  background-repeat: repeat;
+  color: rgb(255, 255, 255); 
+
+  background-color: #F9FAF4;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h1{
+  font-family: Arial Black;
+  color: #F9A66C;
+
+}
