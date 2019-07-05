@@ -1,10 +1,9 @@
 body {
-    margin: 0;
+  margin: 0;
   font-family: Arial;
   background-image: url("../images/web1.jpg");
-  background-repeat: repeat;
-  color: rgb(255, 255, 255); 
-
+  background-size: cover;
+  color: rgb(255, 255, 255);
   background-color: #F9FAF4;
 }
 .starter-template {
@@ -15,4 +14,20 @@ h1{
   font-family: Arial Black;
   color: #F9A66C;
 
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  top: 467px;
+  transform: translate(-50%, -50%);
+}
+button{
+  font-family: Arial Black;
+  background-color: #4CAF50;
 }
